@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Setup JSON Server API",
+      "isCompleted": true
+    },
+    {
+      "id": "2",
+      "text": "Hubungkan React App ke API",
+      "isCompleted": false
+    }
+  ]
+}
